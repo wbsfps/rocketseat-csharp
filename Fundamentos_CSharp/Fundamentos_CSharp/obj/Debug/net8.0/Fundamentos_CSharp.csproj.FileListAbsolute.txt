@@ -1,0 +1,15 @@
+C:\Users\willi\source\repos\rocketseat\Fundamentos_CSharp\Fundamentos_CSharp\bin\Debug\net8.0\Fundamentos_CSharp.exe
+C:\Users\willi\source\repos\rocketseat\Fundamentos_CSharp\Fundamentos_CSharp\bin\Debug\net8.0\Fundamentos_CSharp.deps.json
+C:\Users\willi\source\repos\rocketseat\Fundamentos_CSharp\Fundamentos_CSharp\bin\Debug\net8.0\Fundamentos_CSharp.runtimeconfig.json
+C:\Users\willi\source\repos\rocketseat\Fundamentos_CSharp\Fundamentos_CSharp\bin\Debug\net8.0\Fundamentos_CSharp.dll
+C:\Users\willi\source\repos\rocketseat\Fundamentos_CSharp\Fundamentos_CSharp\bin\Debug\net8.0\Fundamentos_CSharp.pdb
+C:\Users\willi\source\repos\rocketseat\Fundamentos_CSharp\Fundamentos_CSharp\obj\Debug\net8.0\Fundamentos_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\source\repos\rocketseat\Fundamentos_CSharp\Fundamentos_CSharp\obj\Debug\net8.0\Fundamentos_CSharp.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\rocketseat\Fundamentos_CSharp\Fundamentos_CSharp\obj\Debug\net8.0\Fundamentos_CSharp.AssemblyInfo.cs
+C:\Users\willi\source\repos\rocketseat\Fundamentos_CSharp\Fundamentos_CSharp\obj\Debug\net8.0\Fundamentos_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\rocketseat\Fundamentos_CSharp\Fundamentos_CSharp\obj\Debug\net8.0\Fundamentos_CSharp.sourcelink.json
+C:\Users\willi\source\repos\rocketseat\Fundamentos_CSharp\Fundamentos_CSharp\obj\Debug\net8.0\Fundamentos_CSharp.dll
+C:\Users\willi\source\repos\rocketseat\Fundamentos_CSharp\Fundamentos_CSharp\obj\Debug\net8.0\refint\Fundamentos_CSharp.dll
+C:\Users\willi\source\repos\rocketseat\Fundamentos_CSharp\Fundamentos_CSharp\obj\Debug\net8.0\Fundamentos_CSharp.pdb
+C:\Users\willi\source\repos\rocketseat\Fundamentos_CSharp\Fundamentos_CSharp\obj\Debug\net8.0\Fundamentos_CSharp.genruntimeconfig.cache
+C:\Users\willi\source\repos\rocketseat\Fundamentos_CSharp\Fundamentos_CSharp\obj\Debug\net8.0\ref\Fundamentos_CSharp.dll
