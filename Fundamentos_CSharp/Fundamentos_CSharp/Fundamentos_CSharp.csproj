@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="outros_tipos_de_dados\Null\" />
+    <Folder Include="outros_tipos_de_dados\Objects\" />
+    <Folder Include="outros_tipos_de_dados\Var\" />
+  </ItemGroup>
+
 </Project>

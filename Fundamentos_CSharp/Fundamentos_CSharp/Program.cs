@@ -1,4 +1,4 @@
-﻿using Fundamentos_CSharp.datas_e_horas;
+﻿using Fundamentos_CSharp.outros_tipos_de_dados.Enum;
 
 namespace Fundamentos_CSharp;
 
@@ -6,6 +6,6 @@ public class Program
 {
     static void Main()
     {
-        DataEHora.Run();
+        EnumVideo.Run();
     }
 }
