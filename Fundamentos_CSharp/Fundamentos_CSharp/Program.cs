@@ -1,4 +1,4 @@
-﻿using Fundamentos_CSharp.operacoes_com_texto;
+﻿using Fundamentos_CSharp.datas_e_horas;
 
 namespace Fundamentos_CSharp;
 
@@ -6,6 +6,6 @@ public class Program
 {
     static void Main()
     {
-        OperacoesComTexto.Run();
+        DataEHora.Run();
     }
 }

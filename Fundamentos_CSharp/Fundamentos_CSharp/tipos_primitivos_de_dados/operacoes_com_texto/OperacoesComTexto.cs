@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Fundamentos_CSharp.operacoes_com_texto;
+namespace Fundamentos_CSharp.tipos_primitivos_de_dados.operacoes_com_texto;
 
 public class OperacoesComTexto
 {

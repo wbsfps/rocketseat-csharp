@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fundamentos_CSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe4e53f9154673bba9e4592238d90327d7370033")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a263b48f06992bf8388555dfefbff06a3e069b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fundamentos_CSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fundamentos_CSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

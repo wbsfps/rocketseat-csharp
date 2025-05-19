@@ -1,4 +1,4 @@
-﻿namespace Fundamentos_CSharp.tipos_de_texto;
+﻿namespace Fundamentos_CSharp.tipos_primitivos_de_dados.tipos_de_texto;
 
 public class TiposDeTexto
 {

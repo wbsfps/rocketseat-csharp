@@ -1,4 +1,4 @@
-﻿namespace Fundamentos_CSharp.tipos_primitivos_de_dados;
+﻿namespace Fundamentos_CSharp.tipos_primitivos_de_dados.tipos_numericos;
 
 public class TiposNumericos
 {

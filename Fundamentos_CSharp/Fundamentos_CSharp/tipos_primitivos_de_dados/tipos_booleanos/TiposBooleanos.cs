@@ -1,4 +1,4 @@
-﻿namespace Fundamentos_CSharp.tipos_booleanos;
+﻿namespace Fundamentos_CSharp.tipos_primitivos_de_dados.tipos_booleanos;
 
 public class TiposBooleanos
 {
