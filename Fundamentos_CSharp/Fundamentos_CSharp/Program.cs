@@ -1,9 +1,11 @@
-﻿namespace Fundamentos_CSharp;
+﻿using Fundamentos_CSharp.tipos_de_texto;
+
+namespace Fundamentos_CSharp;
 
 public class Program
 {
-    //static void Main()
-    //{
-    //    Console.WriteLine("Teste");
-    //}
+    static void Main()
+    {
+        TiposDeTexto.Run();
+    }
 }

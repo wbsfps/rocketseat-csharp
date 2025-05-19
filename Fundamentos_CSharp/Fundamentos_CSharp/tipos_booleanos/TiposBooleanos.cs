@@ -2,7 +2,7 @@
 
 public class TiposBooleanos
 {
-    static void Main()
+    public static void Run()
     {
         bool active = true;
         bool inactive = false;

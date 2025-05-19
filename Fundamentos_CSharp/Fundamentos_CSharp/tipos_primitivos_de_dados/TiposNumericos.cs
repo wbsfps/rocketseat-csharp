@@ -2,7 +2,7 @@
 
 public class TiposNumericos
 {
-    static void Main()
+    public static void Run()
     {
         int number = 8;
         uint anotherNumber = 9;
