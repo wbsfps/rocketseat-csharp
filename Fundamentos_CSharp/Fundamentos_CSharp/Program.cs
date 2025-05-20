@@ -1,4 +1,4 @@
-﻿using Fundamentos_CSharp.outros_tipos_de_dados.Null;
+﻿using Fundamentos_CSharp.Colecoes.Dicionario;
 
 namespace Fundamentos_CSharp;
 
@@ -6,6 +6,6 @@ public class Program
 {
     static void Main()
     {
-        Null.Run();
+        DictionaryVideo.Run();
     }
 }
