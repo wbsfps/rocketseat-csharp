@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="funcoes_variaveis_debug\criando_classes_com_valores\" />
+    <Folder Include="funcoes_variaveis_debug\funcoes_devolvendo_valores\" />
+    <Folder Include="funcoes_variaveis_debug\o_que_e_e_como_fazer_debug\" />
+    <Folder Include="funcoes_variaveis_debug\parametros_opcionais\" />
+    <Folder Include="funcoes_variaveis_debug\o_que_e_um_static\" />
+  </ItemGroup>
+
 </Project>
