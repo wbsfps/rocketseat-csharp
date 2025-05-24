@@ -1,25 +1,28 @@
-﻿namespace Fundamentos_CSharp.funcoes_variaveis_debug.funcoes_com_parametros;
+﻿namespace Fundamentos_CSharp.funcoes_variaveis_debug.funcoes_devolvendo_valores;
 
 public class MathOperations
 {
-    public void Operation(char symbol, double x, double y)
+    public double Operation(char symbol, double x, double y)
     {
         switch(symbol)
         {
             case '+':
-                Add(x, y);
-                break;
+                return Add(x, y);
             case '-':
-                Subtraction(x, y);
-                break;
-            default: 
-                Console.WriteLine("Invalid Operation");
-                break;
+                return Subtraction(x, y);
+            default:
+                return double.NaN;
         }
     }
 
-    public void Add(double x, double y) => Console.WriteLine(x + y);
-    public void Subtraction(double x, double y) => Console.WriteLine(x - y);
+    public double Add(double x, double y) => x + y;
+
+    public (double result, string author) ReturnTwoValues(double x, double y)
+    {
+        var result = x + y;
+        return (result, "Segundo valor");
+    }
+    public double Subtraction(double x, double y) => x - y;
 
 }
 
