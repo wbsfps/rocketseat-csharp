@@ -1,4 +1,4 @@
-﻿using Fundamentos_CSharp.funcoes_variaveis_debug.parametros_opcionais;
+﻿using Fundamentos_CSharp.funcoes_variaveis_debug.criando_classes_com_valores;
 
 namespace Fundamentos_CSharp;
 
@@ -6,6 +6,14 @@ public class Program
 {
     static void Main()
     {
-        MathOperations.Test(value2: 1, value1: 2);
+        var honda = new Car("Honda", DateOnly.FromDateTime(DateTime.UtcNow), Color.RED);
+        honda.ShowDetails();
+
+        var model = Console.ReadLine()!;
+        var date = Console.ReadLine()!;
+        var color = Console.ReadLine()!;
+        var porsche = new Car(model, DateOnly.Parse (date), (Color) Enum.Parse(typeof (Color), color, ignoreCase: true));
+        
+        porsche.ShowDetails();
     }
 }
